@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RonaldGuru or RJ
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning HTML, CSS and Javascript
